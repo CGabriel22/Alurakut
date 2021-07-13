@@ -11,6 +11,7 @@ function ProfileSidebar(props) {
   )
 }
 
+
 export default function Home() {
   const githubUser = 'CGabriel22';
   const pessoasFavoritas = [
